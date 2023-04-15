@@ -45,9 +45,7 @@ body{
 .border{
     width: 100%;
     height: 15px;
-    background: linear-gradient(135deg,red 5%, white 5%, white 10%, blue 10%, blue 10%, blue 15%, red 15%, white 15%, white 20%, red 20%, red 25%, white 25%, white 30%, blue 30%, blue 35%, red 35%, red 40%, white 40%, white 45%, red 45%, red 50%, white 50%, white 55%, blue 55%, blue 55%, blue 60%, red 60%, white 60%, white 65%, red 65%, red 70%, white 70%, white 75%, blue 75%, blue 80%, red 80%, red 85%, white 85%, white 90%, red 90%
-
-        );
+    background: linear-gradient(135deg, red 5%, blue 5%, blue 10%, red 10%, red 15%, blue 15%, blue 20%,red 20%, red 25%, blue 25%, blue 30%, red 30%, red 35%, blue 35%, blue 40%, red 40%, red 45%, blue 45%, blue 50%,red 50%, red 55%, blue 55%, blue 60%, red 60%, red 65%, blue 65%, blue 70%,red 70%, red 75%, blue 75%, blue 80%, red 80%, red 85%, blue 85%, blue 90%, red 90%, red 95%, blue 95%, blue 100%);
 }
 
 .main{
